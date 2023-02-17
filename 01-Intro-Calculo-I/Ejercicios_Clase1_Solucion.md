@@ -111,7 +111,7 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 
     -A 
         i- f(x)= 4*x+1
-        ii- f(x)= 3*x+2
+        ii- f(x)= 3*x+2 
         iii- f(x)= 3*x+1
         iv- f(x)= 5*x
     Corresponde ii
@@ -120,12 +120,12 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
         i- f(x)= 2*x
         ii- f(x)= x^2+1
         iii- f(x)= 4*x
-        iv- f(x)= x^2
+        iv- f(x)= x^2 
     Corresponde iv
 
     -C 
         i- f(x)= x/3
-        ii- f(x)= x/2 + 1
+        ii- f(x)= x/2 + 1 
         iii- f(x)= 0.5 * x
         iv- f(x)= 0.3 * x + 2
     Corresponde ii
